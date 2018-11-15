@@ -2,7 +2,7 @@
 ## University Libraries Research Hub
 _The University of North Carolina at Chapel Hill_
 
-https://library.unc.edu/hub | https://github.com/unc-libraries-data
+[https://library.unc.edu/hub](https://library.unc.edu/hub) | [https://github.com/unc-libraries-data](https://github.com/unc-libraries-data)
 - - - - -
 
 ## Workshops
