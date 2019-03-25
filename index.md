@@ -7,7 +7,7 @@ _The University of North Carolina at Chapel Hill_
 
 ## Workshops
 
-### [**Excel**](https://unc-libraries-data.github.io/Excel/Excel_Workshop_Instructions.pdf)
+### [**Excel**](https://unc-libraries-data.github.io/Excel/Excel_Workshop_Instructions)
 ### [**Git**](https://unc-libraries-data.github.io/Intro-to-Git/)
 ### [**Python**](https://unc-libraries-data.github.io/Python/)
 ### [**R Open Labs**](http://ropenlabs.web.unc.edu/)
