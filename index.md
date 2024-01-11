@@ -11,3 +11,8 @@ _The University of North Carolina at Chapel Hill_
 ### [**Git**](https://unc-libraries-data.github.io/Intro-to-Git/)
 ### [**Python**](https://unc-libraries-data.github.io/Python/)
 ### [**R Open Labs**](http://ropenlabs.web.unc.edu/)
+
+## Projects
+
+### [**On the Books**](https://unc-libraries-data.github.io/OnTheBooks/)
+### [**The Problem with Plastic**](https://unc-libraries-data.github.io/network_categores_2lvls.html)
