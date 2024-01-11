@@ -15,4 +15,5 @@ _The University of North Carolina at Chapel Hill_
 ## Projects
 
 ### [**On the Books**](https://unc-libraries-data.github.io/OnTheBooks/)
-### [**The Problem with Plastic**](https://unc-libraries-data.github.io/network_categores_2lvls.html)
+### [**The Problem with Plastic**](https://unc-libraries-data.github.io/Problem-With-Plastic/network_categores_2lvls.html)
+
