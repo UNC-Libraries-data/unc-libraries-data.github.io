@@ -1,8 +1,5 @@
 - - - - -
-## University Libraries Research Hub
-_The University of North Carolina at Chapel Hill_
-
-[https://library.unc.edu/hub](https://library.unc.edu/hub) | [https://github.com/unc-libraries-data](https://github.com/unc-libraries-data)
+[https://library.unc.edu/data](https://library.unc.edu/data) | [https://github.com/unc-libraries-data](https://github.com/unc-libraries-data)
 - - - - -
 
 ## Workshops
@@ -11,6 +8,7 @@ _The University of North Carolina at Chapel Hill_
 ### [**Git**](https://unc-libraries-data.github.io/Intro-to-Git/)
 ### [**Python**](https://unc-libraries-data.github.io/Python/)
 ### [**beginR**](https://tarheels.live/beginr/)
+### [**Text Analysis Resources for JUUL Industry Documents**](https://unc-libraries-data.github.io/juul_document_analysis/)
 
 ## Projects
 
