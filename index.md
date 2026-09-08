@@ -8,6 +8,7 @@
 ### [**Git**](https://unc-libraries-data.github.io/Intro-to-Git/)
 ### [**Python**](https://unc-libraries-data.github.io/Python/)
 ### [**beginR**](https://tarheels.live/beginr/)
+### [**Working with Spatial Data in R**](https://unc-libraries-data.github.io/beginR/spatial/GIS_R)
 ### [**Text Analysis Resources for JUUL Industry Documents**](https://unc-libraries-data.github.io/juul_document_analysis/)
 
 ## Projects
